@@ -9,10 +9,13 @@ function App() {
   const [count, setCount] = useState(0)
 
   return (
-    <div className='App'>
-      <sidebar />
+    <div className={styles.sidebar}>
+      <div className={styles.sideBarIcon}>
+        <div>resume screening</div> 
+      
 
 
+     </div>
     </div>
   )
 }
