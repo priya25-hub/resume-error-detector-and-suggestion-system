@@ -1,0 +1,21 @@
+Rahul Sharma
+rahul.sharma@gmail.com | +91 98765 43210 | github.com/rahulsharma
+
+SUMMARY
+Hard working student with good communication skills and a passion for programing.
+
+EDUCATION
+B.Tech Computer Science, Graduation Year 2026
+Graduate University, CGPA 8.2
+
+SKILLS
+Python, Java, SQL, HTML, CSS
+
+EXPERIENCE
+Software Intern, Tech Solutions
+• Responsible for developement of the the web application
+- worked on database and recieve client feedback
+• i improved page load time by 30%
+
+PROJECTS
+• Resume Checker using Python and DSA
